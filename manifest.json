@@ -1,0 +1,46 @@
+{
+    "name": "dino-first-app",
+    "version": 1,
+    "private": true,
+    "author": {
+        "name": "Andrew Feitosa",
+        "email": "andrewcsz@gmail.com"
+    },
+    "product": {
+        "support": {
+            "location": {
+                "ticket_sidebar": {
+                    "url": "assets/iframe.html",
+                    "icon": "far fa-flask-potion"
+                },
+                "nav_bar": {
+                    "url": "assets/iframe_nav_bar.html",
+                    "icon": "fa fa-flame"
+                },
+                "top_bar": {
+                    "url": "assets/iframe_top_bar.html",
+                    "icon": "far fa-flask-potion"
+                },
+                "contact_sidebar": {
+                    "url": "assets/iframe_contact_sidebar.html",
+                    "icon": "far fa-flask-potion"
+                },
+                "organization_sidebar": {
+                    "url": "assets/iframe_organization_sidebar.html",
+                    "icon": "far fa-flask-potion"
+                },
+                "new_ticket_sidebar": {
+                    "url": "assets/iframe_new_ticket_sidebar.html",
+                    "icon": "far fa-flask-potion"
+                },
+                "background": {
+                    "url": "assets/iframe_background.html",
+                    "icon": "far fa-flask-potion"
+                }
+            },
+            "preferences": {
+                "brandColor": "#0764cb"
+            }
+        }
+    }
+}
